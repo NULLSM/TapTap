@@ -1,22 +1,22 @@
 
 {
-  "name": "Small Sharp Tool",
+  "name": "unwarpplus",
   "description": "This app does one little thing, and does it well.",
   "keywords": [
     "productivity",
     "HTML5",
     "scalpel"
   ],
-  "website": "https://small-sharp-tool.com/",
-  "repository": "https://github.com/jane-doe/small-sharp-tool",
-  "logo": "https://small-sharp-tool.com/logo.svg",
+  "website": "https://github.com/NULLSM/Envil",
+  "repository": "https://github.com/NULLSM/Envil",
+  "logo": "https://github.com/NULLSM/Envil/ico.png",
   "success_url": "/welcome",
   "scripts": {
     "postdeploy": "bundle exec rake bootstrap"
   },
   "env": {
     "Warp|plus id": {
-      "description": "The number of processes to run.",
+      "description": "Yours warp|plus id",
       "value": ""
     }
   },
