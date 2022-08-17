@@ -1,39 +1,7 @@
-
 {
-  "name": "unwarpplus",
-  "description": "This app does one little thing, and does it well.",
-  "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
-  ],
-  "website": "https://github.com/NULLSM/Envil",
-  "repository": "https://github.com/NULLSM/Envil",
-  "logo": "https://github.com/NULLSM/Envil/T8zjk-Zh_400x400.jpg",
-  "success_url": "/welcome",
-  "scripts": {
-    "postdeploy": "bundle exec rake bootstrap"
-  },
-  "env": {
-    "Warp|plus id": {
-      "description": "Yours warp|plus id",
-      "value": ""
-    }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "standard-1x"
-    }
-  },
-  "image": "heroku/ruby",
-  
-  
-  "environments": {
-    "test": {
-      "scripts": {
-        "test": "bundle exec rake test"
-      }
-    }
-  }
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
 }
