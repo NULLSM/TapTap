@@ -9,7 +9,7 @@
   ],
   "website": "https://github.com/NULLSM/Envil",
   "repository": "https://github.com/NULLSM/Envil",
-  "logo": "https://github.com/NULLSM/Envil/ico.png",
+  "logo": "T8zjk-Zh_400x400.jpg",
   "success_url": "/welcome",
   "scripts": {
     "postdeploy": "bundle exec rake bootstrap"
