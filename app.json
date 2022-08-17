@@ -17,7 +17,7 @@
   "env": {
     "Warp|plus id": {
       "description": "The number of processes to run.",
-      "value": "5"
+      "value": ""
     }
   },
   "formation": {
