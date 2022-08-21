@@ -7,11 +7,11 @@
     "reward_rcs": {
       "description": "The number of processes to run.",
       "value": ""
-    }
+    },
 "spin_rcs": {
       "description": "The number of processes to run.",
       "value": ""
-    }
+    },
 "spin_token": {
       "description": "The number of processes to run.",
       "value": ""
