@@ -6,7 +6,7 @@ This project is just for Taptap mining game
 
 👉Click the button to deploy on heroku directly!
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NULLSM/Envil"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/NULLSM/TapTap"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
 
 
 1. Please find and fill Config Vars [ reward_token, reward_rcs, spin_token, spin_rcs ]
