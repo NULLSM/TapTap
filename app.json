@@ -1,19 +1,19 @@
 {
   "env": {
     "reward_token": {
-      "description": "A secret key for verifying the integrity of signed cookies.",
+      "description": "A secret token for store reward!",
       "value":""
     },
     "reward_rcs": {
-      "description": "The number of processes to run.",
+      "description": "A secret rcs for store reward!",
       "value": ""
     },
 "spin_rcs": {
-      "description": "The number of processes to run.",
+      "description": "A secret rcs for spin!",
       "value": ""
     },
 "spin_token": {
-      "description": "The number of processes to run.",
+      "description": "A secret token for spin!",
       "value": ""
     }
   }
