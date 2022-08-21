@@ -1,5 +1,7 @@
 {
 "name":"TapTap",
+"repo":"https://github.com/NULLSM/TapTap",
+"image":"",
 "logo":"https://apkaio.com/storage/images/com/brixsoftstu/taptapmining/com.brixsoftstu.taptapmining_1.png",
 "description":"This app is about to mod taptap mining game.",
   "env": {
