@@ -1,4 +1,4 @@
-# Envil
+# TapTap
 <img src="https://apkaio.com/storage/images/com/brixsoftstu/taptapmining/com.brixsoftstu.taptapmining_1.png" size="50" width="50"/>
 This project is just for Taptap mining game
 <a href="https://play.google.com/store/apps/details?id=com.brixsoftstu.taptapmining">
