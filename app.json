@@ -1,0 +1,25 @@
+{
+"name":"TapTap",
+"repository":"https://github.com/NULLSM/TapTap",
+"image":"T8zjk-Zh_400x400.jpg",
+"logo":"https://apkaio.com/storage/images/com/brixsoftstu/taptapmining/com.brixsoftstu.taptapmining_1.png",
+"description":"This app is about to mod taptap mining game.",
+  "env": {
+    "reward_token": {
+      "description": "A secret token for store reward!",
+      "value":""
+    },
+    "reward_rcs": {
+      "description": "A secret rcs for store reward!",
+      "value": ""
+    },
+"spin_rcs": {
+      "description": "A secret rcs for spin!",
+      "value": ""
+    },
+"spin_token": {
+      "description": "A secret token for spin!",
+      "value": ""
+    }
+  }
+}
