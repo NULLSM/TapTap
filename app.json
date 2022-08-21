@@ -1,7 +1,20 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "env": {
+    "reward_token": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "value":""
+    },
+    "reward_rcs": {
+      "description": "The number of processes to run.",
+      "value": ""
+    }
+"spin_rcs": {
+      "description": "The number of processes to run.",
+      "value": ""
+    }
+"spin_token": {
+      "description": "The number of processes to run.",
+      "value": ""
+    }
+  }
 }
