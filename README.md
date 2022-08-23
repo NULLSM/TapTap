@@ -1,8 +1,8 @@
 # TapTap
-<img src="https://apkaio.com/storage/images/com/brixsoftstu/taptapmining/com.brixsoftstu.taptapmining_1.png" size="50" width="50"/>
+<img src="https://apkaio.com/storage/images/com/brixsoftstu/taptapmining/com.brixsoftstu.taptapmining_1.png" height="100" width="100"/>
 This project is just for Taptap mining game
 <a href="https://play.google.com/store/apps/details?id=com.brixsoftstu.taptapmining">
-<img src="https://www.freepnglogos.com/uploads/google-play-png-logo/new-get-it-on-google-play-png-logo-20.png" /></a>
+<img src="https://www.freepnglogos.com/uploads/google-play-png-logo/new-get-it-on-google-play-png-logo-20.png" width="100" height="100" /></a>
 
 👉Click the button to deploy on heroku directly!
 
